@@ -4,6 +4,8 @@
 	<meta charset="UTF-8">
 	<title>My Personal Web Page</title>
 </head>
+<header align="center"><strong></strong><font size="6">My Personal Webpage</font></header>
+<br>
 	<body>
 		<div>
 			<p><strong>Purpose:</strong> I am building this PWP (Personal Web Page) to help me obtain more work either by freelance or contract work with my business by showing my past experience and new knowledge that I am gaining in my
