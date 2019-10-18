@@ -17,8 +17,8 @@
 
 		<ul align="center">To acquire either full-time, part-time or contract work with either my low voltage or coding skills.</ul>
 		<ul align="center">To showcase work that I have done and completed in both coding and low voltage.</ul>
-		<ul align="center">To attract more business to my low voltage company</ul
-		<ul align="center">To show that I now will have the capability to build websites along with the work we already do</ul>
+		<ul align="center">To attract more business to my low voltage company</ul>
+		<ul align="center">To show that I now will have the capability to build websites along with the work that I already do.</ul>
 		<ul align="center">To ultimately end up on a website that I will build from scratch for my business Integrated Media Solutions so my targeted audience will know more about me.</ul>
 	</body>
 </html>
