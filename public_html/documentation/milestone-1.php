@@ -20,5 +20,6 @@
 		<ul align="center">To attract more business to my low voltage company</ul>
 		<ul align="center">To show that I now will have the capability to build websites along with the work that I already do.</ul>
 		<ul align="center">To ultimately end up on a website that I will build from scratch for my business Integrated Media Solutions so my targeted audience will know more about me.</ul>
+		<ul align="center">To state my endgame of my career out look which will be working with DoD in a cybrer security division somewhere.</ul>
 	</body>
 </html>
