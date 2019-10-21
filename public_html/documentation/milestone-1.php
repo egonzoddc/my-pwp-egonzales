@@ -27,15 +27,10 @@
 	</div>
 		<br>
 		<h2 align="center"><strong></strong><font size="5">Persona:</font></h2>
-			<p align="center">I am Efren Gonzales I am a 39 year old low voltage technician and business owner. I have been in the low voltage field for almost 23 years.
-			I sell, service and install everthing from simple phone systems to full on business network solutions. Small home security systems and CCTV systems to
-			full on multi zone and channel commercial security systems. Fire alarm systems for businesses. Home entertainment and home automation systems. I integrate
-			all that technology together and can put the controls of those systems into a simple easy to use app on your phone or computer. I am building this PWP to
-			showcase my knowledge, skills, certifications and achievements in hopes of getting more work via contracts with other small business owners or individuals.
-			I would like for potential clients to reference my PWP to see what I am capiable of to make them feel more comfortable in hiring me to do their work. I would
-			like to continue to update this PWP with the new work in computer coding and other work that I do with my business in hopes of eventually landing a job
-			somewhere within the Department of Defence doing cyber security work for them within the next 5-7 years. During that time it is my goal to have my current
-			business be able to keep me busy enough with this new service I will be able to provide of building websites which in turn will get me the experience needed
-			to continue to move forward in that field leaving my small business to run itself while I pursue my ultimate goal working with DoD writing code for them.</p>
+			<p align="center">I am Jason and I am a hiring manager for a large developing company and I am looking for an employee that has experience in coding and technology. This personal website was
+			part of an application that was sent to me. It gives me detail of the possible employee such as his age, current and present jobs, technology he has been associated with and
+			other important aspects of his life and experience. I will be using the information that I was able to get off of this PWP to make a decision on his possible future employment with our development
+			firm. It shows me quite a bit of information to help me make the decision on weather he would be a good fit into our firm and team. It also shows me that he is keeping up with new technology that is
+			coming out and maintaining his knowledge in his current and future fields of study.</p>
 	</body>
 </html>
